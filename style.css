@@ -1,0 +1,20 @@
+.home-page {
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+}
+
+h1 {
+   color: white;
+   background-color: #000000;
+}
+
+.list-head {
+   font-size: larger;
+   font-weight: 700;
+   background-color: #FFDBCC;
+}
+
+ul li {
+   font-size: large;
+   background-color: #A2E1DB;
+}
