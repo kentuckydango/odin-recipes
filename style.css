@@ -1,20 +1,43 @@
-.home-page {
+body {
    font-family: 'Courier New', Courier, monospace;
    text-align: center;
+   font-size: 24px;
 }
 
-h1 {
+ol {
+   text-align: left;
+}
+
+.home-page {
    color: white;
-   background-color: #000000;
+   background-color: black;
 }
 
-.list-head {
+.head {
+   font-weight: 200;
+}
+
+.recipe-link {
    font-size: larger;
-   font-weight: 700;
-   background-color: #FFDBCC;
+   font-family: 'Courier New', Courier, monospace;
 }
 
-ul li {
-   font-size: large;
+.PQ {
+   background-color: #FCB9AA;
+}
+
+.Toast {
    background-color: #A2E1DB;
+}
+
+.GoM {
+   background-color: #55CBCD;
+}
+
+.caption {
+   font-style: oblique;
+}
+
+.PQ ol {
+   background-color: #FFDBCC;
 }
