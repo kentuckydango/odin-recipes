@@ -13,7 +13,7 @@ ol {
    background-color: black;
 }
 
-.head {
+h1,h2 {
    font-weight: 200;
 }
 
@@ -38,6 +38,6 @@ ol {
    font-style: oblique;
 }
 
-.PQ ol {
+body ul {
    background-color: #FFDBCC;
 }
